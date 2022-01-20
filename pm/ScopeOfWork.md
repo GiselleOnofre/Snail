@@ -8,12 +8,23 @@ A motorized toy snail car, no larger than 7"x7"x7", which shall be controllable 
 
 ## Requirements
 
+### Overall System
+
+- Shall resemble stylized snail
+- Shall be no larger than 7"x7"x7".
+- Shall weigh no more than 2 lbs.
+- Shall not have any sharp edges (no smaller than XX degrees)
+- Shall not be a choking hazard
+- 
+
 ### Dipensing system
 
 - Thin height 1-5mm thick
 - As wide as the tail
-- Switchable
 - Only going dispense when the snail is moving
+- Shall be able to be easily filled up
+- Shell be able to be easily drained
+- * may or may not be removable?
 
 #### Fluid
 
@@ -26,6 +37,10 @@ A motorized toy snail car, no larger than 7"x7"x7", which shall be controllable 
 ### Drive system
 
 - Max speed 2MPH
+
+#### Gears
+
+- 
 
 #### Motors
 
@@ -48,6 +63,7 @@ A motorized toy snail car, no larger than 7"x7"x7", which shall be controllable 
 
 ### Chasis
 
+
 #### Shell
 
 - Shall look like a snail shell, but funky
@@ -61,9 +77,12 @@ A motorized toy snail car, no larger than 7"x7"x7", which shall be controllable 
 - Resemble a snail tail
 - Shall drag on the ground
 
-#### Bottom Plate
+#### Battery Compartment
 
-- Shall be held in with MXX screws
+- Shall be easily accesible by the user
+- Shall be child proof
+- Shall be secure and not come off if dropped from 3 ft
+
 
 #### Mounting
 
@@ -71,9 +90,24 @@ A motorized toy snail car, no larger than 7"x7"x7", which shall be controllable 
 
 #### Battery
 
+- Shall fit within the snail shell
+- Shall be some be a standardized AA, AAA, 9V, etc. battery
+- Shall have enough capacity to run for 3 hours of continuous play.
+- Shall be easily removable/replaceable by user
+- Battery comparment shall interfere with the athetic of the snail
+
+
 #### On/Off Switch
 
+- Shall turn all power off for the car
+- Shall have some indication that the decivce is on off
+- Shall be easily accesible from the outside
+- Shall not takeaway from the outer asthetic of the snail
+
 #### Wiring
+- All wiring shall be contained within the shell
+- Shall be hidden away from user access 
+
 
 ## Constraints
 
