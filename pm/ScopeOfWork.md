@@ -15,7 +15,8 @@ A motorized toy snail car, no larger than 7"x7"x7", which shall be controllable 
 - Shall weigh no more than 2 lbs.
 - Shall not have any sharp edges (no smaller than XX degrees)
 - Shall not be a choking hazard
-- 
+
+-
 
 ### Dipensing system
 
@@ -24,7 +25,7 @@ A motorized toy snail car, no larger than 7"x7"x7", which shall be controllable 
 - Only going dispense when the snail is moving
 - Shall be able to be easily filled up
 - Shell be able to be easily drained
-- * may or may not be removable?
+  - * may or may not be removable?
 
 #### Fluid
 
@@ -40,15 +41,15 @@ A motorized toy snail car, no larger than 7"x7"x7", which shall be controllable 
 
 #### Gears
 
-- 
+-
 
 #### Motors
 
-- 
+-
 
 #### Control Board
 
-- 
+-
 
 #### Wheels
 
@@ -62,7 +63,6 @@ A motorized toy snail car, no larger than 7"x7"x7", which shall be controllable 
 - Shall be suitable for PPM protocol.
 
 ### Chasis
-
 
 #### Shell
 
@@ -83,7 +83,6 @@ A motorized toy snail car, no larger than 7"x7"x7", which shall be controllable 
 - Shall be child proof
 - Shall be secure and not come off if dropped from 3 ft
 
-
 #### Mounting
 
 ### Power
@@ -96,7 +95,6 @@ A motorized toy snail car, no larger than 7"x7"x7", which shall be controllable 
 - Shall be easily removable/replaceable by user
 - Battery comparment shall interfere with the athetic of the snail
 
-
 #### On/Off Switch
 
 - Shall turn all power off for the car
@@ -105,9 +103,9 @@ A motorized toy snail car, no larger than 7"x7"x7", which shall be controllable 
 - Shall not takeaway from the outer asthetic of the snail
 
 #### Wiring
-- All wiring shall be contained within the shell
-- Shall be hidden away from user access 
 
+- All wiring shall be contained within the shell
+- Shall be hidden away from user access
 
 ## Constraints
 
